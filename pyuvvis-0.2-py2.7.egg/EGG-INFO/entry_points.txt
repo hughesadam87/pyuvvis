@@ -1,0 +1,4 @@
+[console_scripts]
+gwuspec = pyuvvis.scripts.gwu_script.gwuspec:main
+gwureport = pyuvvis.scripts.gwu_script.gwureport:main
+

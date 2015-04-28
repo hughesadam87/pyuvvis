@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: pyuvvis
+Version: 0.2
+Summary: Pandas-based toolkit for spectral data analysis, primarily UVVis spectra for now.
+Home-page: http://pypi.python.org/pypi/PyUvVis/
+Author: Adam Hughes
+Author-email: hughesadam87@gmail.com
+License: LICENSE.txt
+Download-URL: https://github.com/hugadams/pyuvvis
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
