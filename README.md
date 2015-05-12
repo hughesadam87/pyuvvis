@@ -3,7 +3,7 @@ Legacy Script for GWU Lab work
 
 Can't find the original source code.  This is the build (eg what gets installed after typing setup.py install).  
 
-**Ignore fold SCIKITSPECTRA_SCRIPT**.  This was the most recent version of script from scikit-spectra.  Once scikit-spectra is updated to have new vesrion of pandas, thsi should work fine; however, don't think this has any updates that `gwuspec` and `gwureport` from the older version.
+**CURRENT SCRIPTS STILL AVAILBLE IN SCIKIT-SPECTRA.**  Don't take them out until ready to build a separate setup.py file so they can be installed independently.  Do this after sure they work again with new versions of scikit spectra.
 
 Put `gwuspec` and `gwureport` into your python usr/bin eg:
 
